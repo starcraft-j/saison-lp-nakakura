@@ -273,6 +273,9 @@ table.rnk2item table.ttable {
 	padding: 6px;
 	text-align: center;
 }
+.prc1item th img {
+	width: 118px;
+}
 .prc1item td {
 	text-align: center;
 	padding: 6px;
