@@ -441,7 +441,6 @@ ytag({"type":"ycl_cookie_extended"});
 <div class="ylwbox">
 <ul>
 <li><strong><span style="color:#FF0A0A">【2023年3月31日まで】</span>年会費22,000円（税込）→初年度年会費無料</strong></li>
-<li><strong>抽選で1,000名様に1,100円をキャッシュバック！</strong></li>
 </ul>
 </div>
 <p>&nbsp;</p>
