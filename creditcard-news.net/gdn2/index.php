@@ -154,7 +154,7 @@ ytag({"type":"ycl_cookie_extended"});
 <p>&nbsp;</p>
 <p>さらに、<span style="color:#FF0A0A"><strong>今なら2023年3月31日まで初年度年会費無料</strong></span>のキャンペーンを実施していますので、いまのうちに作っておいて1年目に200万円以上利用すれば、<span class="mky_yellow"><strong>最初の支払いから半額の11,000円（税込）で済む</strong></span>のでお得です。</p>
 <p>&nbsp;</p>
-<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php" rel="noopener" target="_blank">→ 本ページからの特典付き申込はこちら</a></strong></p>
+<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php" rel="noopener" target="_blank">→ キャンペーンサイトはこちら</a></strong></p>
 <p>&nbsp;</p>
 <h3><span><span style="font-size:26px" class="lbg">おすすめ理由②：登記簿謄本・決算書の提出不要で設立1ヶ月目から申込OK！</span></span></h3>
 <p>&nbsp;</p>
@@ -252,7 +252,7 @@ ytag({"type":"ycl_cookie_extended"});
 <p>&nbsp;</p>
 <p>ポイントでお得に経費削減したい人は絶対持つべき1枚です。</p>
 <p>&nbsp;</p>
-<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php" rel="noopener" target="_blank">→ 本ページからの特典付き申込はこちら</a></strong></p>
+<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php" rel="noopener" target="_blank">→ キャンペーンサイトはこちら</a></strong></p>
 <p>&nbsp;</p>
 <h3><span><span style="font-size:26px" class="lbg">おすすめ理由⑥：税金の支払いでも還元率は変わらずポイントが貯まる♪</span></span></h3>
 <p>&nbsp;</p>
@@ -280,7 +280,7 @@ ytag({"type":"ycl_cookie_extended"});
 <p>&nbsp;</p>
 <p><span class="mky_yellow"><strong>出張で飛行機に乗る機会が多い経営者は「必携」</strong></span>と言えますね。</p>
 <p>&nbsp;</p>
-<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php" rel="noopener" target="_blank">→ 本ページからの特典付き申込はこちら</a></strong></p>
+<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php" rel="noopener" target="_blank">→ キャンペーンサイトはこちら</a></strong></p>
 <p>&nbsp;</p>
 <h3><span><span style="font-size:26px" class="lbg"><strong>おすすめ理由⑧：24時間365日利用できるコンシェルジュサービス</strong></span></span></h3>
 <p>&nbsp;</p>
