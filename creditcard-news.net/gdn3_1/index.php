@@ -154,7 +154,7 @@ ytag({"type":"ycl_cookie_extended"});
 <p>&nbsp;</p>
 <p>さらに、<span style="color:#FF0A0A"><strong>今なら2023年3月31日まで初年度年会費無料</strong></span>のキャンペーンを実施していますので、いまのうちに作っておいて1年目に200万円以上利用すれば、<span class="mky_yellow"><strong>最初の支払いから半額の11,000円（税込）で済む</strong></span>のでお得です。</p>
 <p>&nbsp;</p>
-<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php" rel="noopener" target="_blank">→ キャンペーンサイトはこちら</a></strong></p>
+<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn3_1/link/sbs-gdn3_1.php" rel="noopener" target="_blank">→ キャンペーンサイトはこちら</a></strong></p>
 <p>&nbsp;</p>
 <h3><span><span style="font-size:26px" class="lbg">おすすめ理由②：登記簿謄本・決算書の提出不要で設立1ヶ月目から申込OK！</span></span></h3>
 <p>&nbsp;</p>
@@ -252,7 +252,7 @@ ytag({"type":"ycl_cookie_extended"});
 <p>&nbsp;</p>
 <p>ポイントでお得に経費削減したい人は絶対持つべき1枚です。</p>
 <p>&nbsp;</p>
-<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php" rel="noopener" target="_blank">→ キャンペーンサイトはこちら</a></strong></p>
+<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn3_1/link/sbs-gdn3_1.php" rel="noopener" target="_blank">→ キャンペーンサイトはこちら</a></strong></p>
 <p>&nbsp;</p>
 <h3><span><span style="font-size:26px" class="lbg">おすすめ理由⑥：税金の支払いでも還元率は変わらずポイントが貯まる♪</span></span></h3>
 <p>&nbsp;</p>
@@ -280,7 +280,7 @@ ytag({"type":"ycl_cookie_extended"});
 <p>&nbsp;</p>
 <p><span class="mky_yellow"><strong>出張で飛行機に乗る機会が多い経営者は「必携」</strong></span>と言えますね。</p>
 <p>&nbsp;</p>
-<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php" rel="noopener" target="_blank">→ キャンペーンサイトはこちら</a></strong></p>
+<p style="text-align:right;"><strong><a href="https://creditcard-news.net/gdn3_1/link/sbs-gdn3_1.php" rel="noopener" target="_blank">→ キャンペーンサイトはこちら</a></strong></p>
 <p>&nbsp;</p>
 <h3><span><span style="font-size:26px" class="lbg"><strong>おすすめ理由⑧：24時間365日利用できるコンシェルジュサービス</strong></span></span></h3>
 <p>&nbsp;</p>
@@ -306,7 +306,7 @@ ytag({"type":"ycl_cookie_extended"});
 <p>旅行中の事故の補償があり、海外旅行中の事故は<span style="color:#FF0A0A"><strong>最高1億円</strong></span>まで、国内旅行中の事故は<span style="color:#FF0A0A"><strong>最高5,000万円</strong></span>まで自動的に補償されます。</p>
 <p>&nbsp;</p>
 <p>他にも、カードで購入した物品の破損・盗難などの損害を購入日から120日間、年間300万円まで補償してくれる<strong>「ショッピング安心保険」</strong>、心当たりのないインターネット上での不正使用による損害を補償してくれる<strong>「オンライン・プロテクション」</strong>があり、各種保険が充実しているので、安心してカードを利用いただけます。</p>
-<div class="btn02 orange btn-exlg btn-rounded btn-shadow fnt26 fnt-meiryo responsive_h"><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php">セゾンプラチナビジネスアメックスをお得に申し込む ＞</a></div>
+<div class="btn02 orange btn-exlg btn-rounded btn-shadow fnt26 fnt-meiryo responsive_h"><a href="https://creditcard-news.net/gdn3_1/link/sbs-gdn3_1.php">セゾンプラチナビジネスアメックスをお得に申し込む ＞</a></div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><span style="font-size:26px" class="lbg"><strong>他社の法人プラチナビジネスカードと比較してみた。</strong></span></p>
@@ -429,7 +429,7 @@ ytag({"type":"ycl_cookie_extended"});
 <p>&nbsp;</p>
 <p>また、持ってみたらきっと手放せなくなると思いますが(笑)、万が一使ってみて満足できなかった場合、今なら<span class="mky_yellow"><strong>初年度年会費無料で作れるので、1年間は持っておいて損することはありません！</strong></span></p>
 <p>&nbsp;</p>
-<div class="btn02 orange btn-exlg btn-rounded btn-shadow fnt26 fnt-meiryo responsive_h"><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php">セゾンプラチナビジネスアメックスをお得に申し込む ＞</a></div>
+<div class="btn02 orange btn-exlg btn-rounded btn-shadow fnt26 fnt-meiryo responsive_h"><a href="https://creditcard-news.net/gdn3_1/link/sbs-gdn3_1.php">セゾンプラチナビジネスアメックスをお得に申し込む ＞</a></div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><span style="font-size:26px" class="lbg"><strong>【期間限定】入会キャンペーン実施中！</strong></span></p>
@@ -442,7 +442,7 @@ ytag({"type":"ycl_cookie_extended"});
 </ul>
 </div>
 <p>&nbsp;</p>
-<div class="btn02 orange btn-exlg btn-rounded btn-shadow fnt26 fnt-meiryo responsive_h"><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php">セゾンプラチナビジネスアメックスをお得に申し込む ＞</a></div>
+<div class="btn02 orange btn-exlg btn-rounded btn-shadow fnt26 fnt-meiryo responsive_h"><a href="https://creditcard-news.net/gdn3_1/link/sbs-gdn3_1.php">セゾンプラチナビジネスアメックスをお得に申し込む ＞</a></div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><span style="font-size:26px" class="lbg"><strong>【まとめ】経営者は全員持った方が良いコスパ最強の法人プラチナビジネスカード！</strong></span></p>
@@ -477,7 +477,7 @@ ytag({"type":"ycl_cookie_extended"});
 <p>&nbsp;</p>
 <p>ぜひ、あなたも経営者・個人事業主の最強カード「セゾンプラチナビジネスアメックス」を手に入れて、ビジネスを加速させてくださいね！</p>
 <p>&nbsp;</p>
-<div class="btn02 orange btn-exlg btn-rounded btn-shadow fnt26 fnt-meiryo responsive_h"><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php">セゾンプラチナビジネスアメックスをお得に申し込む ＞</a></div>
+<div class="btn02 orange btn-exlg btn-rounded btn-shadow fnt26 fnt-meiryo responsive_h"><a href="https://creditcard-news.net/gdn3_1/link/sbs-gdn3_1.php">セゾンプラチナビジネスアメックスをお得に申し込む ＞</a></div>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong><span style="font-size:26px" class="lbg">【カード基本情報】</span></strong></p>
@@ -552,7 +552,7 @@ ytag({"type":"ycl_cookie_extended"});
 </tbody>
 </table>
 <p>&nbsp;</p>
-<div class="btn02 orange btn-exlg btn-rounded btn-shadow fnt26 fnt-meiryo responsive_h"><a href="https://creditcard-news.net/gdn2/link/sbs-gdn2.php">セゾンプラチナビジネスアメックスをお得に申し込む ＞</a></div>
+<div class="btn02 orange btn-exlg btn-rounded btn-shadow fnt26 fnt-meiryo responsive_h"><a href="https://creditcard-news.net/gdn3_1/link/sbs-gdn3_1.php">セゾンプラチナビジネスアメックスをお得に申し込む ＞</a></div>
 <p>&nbsp;</p>
 <span style="font-size:10px" class="lbg">※こちらのページからアクセスしたクレディセゾン公式ページに記載のないキャンペーンは対象外となります。あらかじめご了承ください。</span>
 </div>
@@ -577,7 +577,7 @@ ytag({"type":"ycl_cookie_extended"});
 
 </div>
 
-<script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-iodtslemdwpbdwlo.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-hyslqadbxobpczle.js"></script>
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script async src="./js/timer.js"></script>
 <script async src="https://s.yimg.jp/images/listing/tool/cv/ytag.js"></script>
