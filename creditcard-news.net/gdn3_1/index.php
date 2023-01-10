@@ -85,6 +85,13 @@ ytag({"type":"ycl_cookie_extended"});
 
   gtag('config', 'AW-453046627');
 </script>
+<style>
+  #gentei {
+    padding: 1rem;
+    font-size: 1.2rem;
+    line-height: 1.3;
+  }
+</style>
 </head>
 
 <body>
@@ -112,10 +119,14 @@ ytag({"type":"ycl_cookie_extended"});
 <p><span style="font-size:26px" class="lbg"><strong><span class="mky_yellow">経営者なら絶対作るべき！</span>セゾンのプラチナビジネスカードがすごい！私が<span style="color:#FF0A0A">7年以上愛用</span>している<span style="color:#FF0A0A">9つの理由</span></strong></span></p>
 <p>&nbsp;</p>
 <p><img src="./img/saison_img3_m.jpg" alt="経営者なら絶対作るべき！セゾンのプラチナビジネスカードがすごい！私が7年以上愛用している9つの理由" /></p>
-<p>&nbsp;</p>
+<div id="gentei">
+  <span class="hikaru" style="font-weight: bold; color:#FF0A0A; background-color: yellow">【期間限定】初年度年会費無料キャンペーン中</span>
+</div>
 <?php 
   include_once "searchform.php"; 
 ?>
+<p>&nbsp;</p>
+
 <p><span style="color:#FF0A0A"><strong>経営者・個人事業主向けの「最強カード」</strong></span>との呼び声が高い<strong>セゾンプラチナ・ビジネス・アメリカン・エキスプレスカード</strong>をご存じでしょうか？</p>
 <p>&nbsp;</p>
 <p>資金力に乏しい創業初期やビジネス効率化の強い味方になってくれますので、<span class="mky_yellow"><strong>経営者なら絶対に持った方が良いカード</strong></span>です。</p>

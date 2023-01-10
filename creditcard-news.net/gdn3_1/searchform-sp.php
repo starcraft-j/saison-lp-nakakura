@@ -1,3 +1,9 @@
+<style>
+  .search__item label {
+    line-height: 1.2;
+  }
+</style>
+
 <article id="search__box" class="sp">
 
     <h2 class="title__wrap">絞り込み検索</h2>
@@ -76,28 +82,6 @@
 
                             </select>
                         </label>
-
-                        <label for="speed">
-                            <div class="title__wrap">発行スピード</div>
-                            <select name="speed" id="speed">
-                                <option value="">指定なし</option>
-                                <option value="1">最短翌営業日</option>
-                                <option value="2">3営業日以内</option>
-                                <option value="3">1週間以内</option>
-                                <option value="4">2週間以内</option>
-                            </select>
-                        </label>
-
-                        <label for="insurance">
-                            <div class="title__wrap">付帯保険</div>
-                            <select name="insurance" id="insurance">
-                                <option value="">指定なし</option>
-                                <option value="海外旅行保険">海外旅行保険</option>
-                                <option value="国内旅行保険">国内旅行保険</option>
-                                <option value="盗難保険">盗難保険</option>
-                                <option value="ショッピング保険">ショッピング保険</option>
-                            </select>
-                        </label>
                     </div>
 
 
@@ -105,117 +89,14 @@
                 </div>
 
             </div>
-            <!-- .search__area__top END -->
+      
+            <!-- .search__area__bottom END -->
 
-            <div class="search__area__bottom sp">
-                
-                <h3>ブランド</h3>
-
-                <div class="search__items brand__wrap">
-
-                    <div class="search__item 1">
-                        <label for="brand__01">
-                            <input type="checkbox" name="brand[]" id="brand__01" value="VISA" />
-                            <span></span>
-                            <img src="<?php echo $url; ?>/images/contents/brand__visa.jpg" alt="">
-                        </label>
-                    </div>
-
-                    <div class="search__item 2">
-                        <label for="brand__02">
-                            <input type="checkbox" name="brand[]" id="brand__02" value="JCB" />
-                            <span></span>
-                            <img src="<?php echo $url; ?>/images/contents/brand__jcb.jpg" alt="">
-                        </label>
-                    </div>
-
-                    <div class="search__item 3">
-                        <label for="brand__03">
-                            <input type="checkbox" name="brand[]" id="brand__03" value="Mastercard" />
-                            <span></span>
-                            <img src="<?php echo $url; ?>/images/contents/brand__master.jpg" alt="">
-                        </label>
-                    </div>
-
-                    <div class="search__item 4">
-                        <label for="brand__04">
-                            <input type="checkbox" name="brand[]" id="brand__04" value="American Express" />
-                            <span></span>
-                            <img src="<?php echo $url; ?>/images/contents/brand__american.jpg" alt="">
-                        </label>
-                    </div>
-
-                    <div class="search__item 5">
-                        <label for="brand__05">
-                            <input type="checkbox" name="brand[]" id="brand__05" value="Diners Club" />
-                            <span></span>
-                            <img src="<?php echo $url; ?>/images/contents/brand__diners.jpg" alt="">
-                        </label>
-                    </div>
-
+            <div class="search__area__button">
+                <div class="search__button">
+                    <input type="submit" class="submit" value="この条件で検索する" form="searchform" />
                 </div>
-
-                <h3>人気条件</h3>
-
-                <div class="search__items kodawari__wrap">
-
-                    <div class="search__item 1">
-                        <label for="radio1">
-                            <input type="checkbox" name="ninki" id="radio1" value="年会費無料" />
-                            <span></span>
-                            年会費無料
-                        </label>
-                    </div>
-
-                    <div class="search__item 2">
-                        <label for="radio2">
-                            <input type="checkbox" name="ninki" id="radio2" value="高還元率・ポイント貯めたい人" />
-                            <span></span>
-                            高還元率・ポイント貯めたい人
-                        </label>
-                    </div>
-
-                    <div class="search__item 3">
-                        <label for="radio3">
-                            <input type="checkbox" name="ninki" id="radio3" value="発行スピードが早い・審査も早い" />
-                            <span></span>
-                            発行スピード・審査も早い
-                        </label>
-                    </div>
-
-                    <div class="search__item 4">
-                        <label for="radio4">
-                            <input type="checkbox" name="ninki" id="radio4" value="ETCカード対応・車によく乗る人" />
-                            <span></span>
-                            ETCカード対応・車によく乗る人
-                        </label>
-                    </div>
-
-                    <div class="search__item 5">
-                        <label for="radio5">
-                            <input type="checkbox" name="ninki" id="radio5" value="マイルが貯まる・旅行や海外出張で" />
-                            <span></span>
-                            マイルが貯まる・旅行や海外出張が多い
-                        </label>
-                    </div>
-
-                    <div class="search__item 6">
-                        <label for="radio6">
-                            <input type="checkbox" name="ninki" id="radio6" value="利用限度額が高い・カード支払い多い人" />
-                            <span></span>
-                            利用限度額が高い人・カード支払いが多い人
-                        </label>
-                    </div>
-                </div>
-
             </div>
-                <!-- .search__area__bottom END -->
-
-                <div class="search__area__button">
-                    <div class="search__button">
-                        <input type="submit" class="submit" value="この条件で検索する" form="searchform" />
-                    </div>
-                </div>
         </form>
 
     </div>
