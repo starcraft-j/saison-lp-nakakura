@@ -5,7 +5,7 @@ $(function () {
 function countDown() {
   var startTime = new Date();
   //カウントダウンの終了期日を記入↓
-  var endTime = new Date('November 21,2022, 00:00:00');
+  var endTime = new Date('February 9,2023, 00:00:00');
   var diff = endTime - startTime;
   var times = 24 * 60 * 60 * 1000;
   var day = Math.floor(diff / times)
