@@ -3407,7 +3407,7 @@ h1,h2,h3,h4,h5,h6,.title,dt,h3 > span,h4 > span,h5 > span,h6 > span,.title > spa
 #text1,#text2,#text3,#text4,#text5,#text6,#text7,#text8,#text9,#text10,#space1,#space2{font-family: "ƒƒCƒŠƒI","Meiryo","ƒqƒ‰ƒMƒmŠpƒS Pro W3", "Hiragino Kaku Gothic Pro","‚l‚r ‚oƒSƒVƒbƒN", "MS P Gothic","Osaka", Verdana,Arial, Helvetica, sans-serif;font-weight:normal;}
 .hikaru {
   /* transition: all .5s; */
-  animation: hikaru 1.8s alternate infinite;
+  animation: hikaru 1.8s alternate infinite linear;
 }
 @keyframes hikaru {
   0%, 100% {

@@ -80,7 +80,7 @@ ytag({"type":"ycl_cookie_extended"});
 <p><span style="font-size:26px" class="lbg"><strong><span class="mky_yellow">経営者なら絶対作るべき！</span>セゾンのプラチナビジネスカードがすごい！私が<span style="color:#FF0A0A">7年以上愛用</span>している<span style="color:#FF0A0A">9つの理由</span></strong></span></p>
 <p>&nbsp;</p>
 <span class="hikaru">
-  <span class="mky_yellow" style="color:#FF0A0A">【期間限定】 初年度年会費無料＆本ページからの入会・利用で12,000円相当プレゼント！（2月9日まで）</span>
+  <span class="mky_yellow" style="color:#FF0A0A">【期間限定】 本ページからの入会・利用で12,000円相当プレゼント！（2月9日まで）</span>
 </span>
 <p>&nbsp;</p>
 <p><img src="./img/saison_img3_m.jpg" alt="経営者なら絶対作るべき！セゾンのプラチナビジネスカードがすごい！私が7年以上愛用している9つの理由" /></p>

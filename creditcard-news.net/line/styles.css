@@ -3409,7 +3409,7 @@ h1,h2,h3,h4,h5,h6,.title,dt,h3 > span,h4 > span,h5 > span,h6 > span,.title > spa
 
 .hikaru {
   /* transition: all .5s; */
-  animation: hikaru 1.8s alternate infinite;
+  animation: hikaru 1.8s alternate infinite linear;
 }
 @keyframes hikaru {
   0%, 100% {

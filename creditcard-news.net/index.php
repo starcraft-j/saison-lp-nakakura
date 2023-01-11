@@ -84,7 +84,7 @@ ytag({"type":"ycl_cookie_extended"});
 <p>&nbsp;</p>
 <p style="font-weight: bold;" id="timer">
 <span class="hikaru">
-  <span class="mky_yellow" style="color:#FF0A0A">【期間限定】 初年度年会費無料＆本ページからの入会・利用で12,000円相当プレゼント！（2月9日まで）</span>
+  <span class="mky_yellow" style="color:#FF0A0A">【期間限定】 本ページからの入会・利用で12,000円相当プレゼント！（2月9日まで）</span>
 </span>
 </p>
 <p>&nbsp;</p>
